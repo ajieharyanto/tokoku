@@ -36,7 +36,7 @@
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-truck"></i> <span>Supplier</span>
+            <i class="fa fa-truck"></i> <span>Distributor</span>
           </a>
         </li>
         <li class="header">TRANSAKSI</li>
